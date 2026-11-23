@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Khazeen Fair Groceries",
+  "description": "An elegant online supermarket experience featuring fresh produce, dynamic AI-powered ads, smart fridge photo analysis, and customized recipe image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
